@@ -25,4 +25,4 @@ public class Main {
         else
             System.out.println("Not Perfect Array");
     }
-    }
+}
